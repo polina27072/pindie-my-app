@@ -1,1 +1,0 @@
-# pindie-my-app
