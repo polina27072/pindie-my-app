@@ -41,7 +41,7 @@ export const AuthForm = (props) => {
       <div className={Styles["form__fields"]}>
         <label className={Styles["form__field"]}>
           <span className={Styles["form__field-title"]}>Email</span>
-         
+
           <input
             onInput={handleInput}
             className={Styles["form__field-input"]}
