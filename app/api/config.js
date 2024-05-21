@@ -1,4 +1,4 @@
-export const BASE_URL = 'http://polina-backend.nomoredomainswork.ru/api'
+export const BASE_URL = 'https://polina-backend.nomoredomainswork.ru/api'
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
