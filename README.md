@@ -1,1 +1,1 @@
-Мой бэкенд:polina-backend.nomoredomainswork.ru
+Мой бэкенд:https://polina-backend.nomoredomainswork.ru
